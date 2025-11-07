@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,nestjs,vue,nextjs,python,mysql,postgres,redis,docker,nginx,wordpress,tailwind,bootstrap,firebase,git,github,gitlab" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,nestjs,vue,nextjs,python,ruby,kotlin,mysql,postgres,redis,docker,nginx,wordpress,tailwind,bootstrap,firebase,git,github,gitlab,jenkins" alt="Skills and tools"/>
   </a>
 </p>
 
