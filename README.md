@@ -3,38 +3,38 @@
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
-<h4 align="center">💻 Languages</h4>
 <p align="center">
+  <strong>💻 Languages:</strong>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,js,ts,python,ruby,kotlin" alt="Languages"/>
   </a>
 </p>
 
-<h4 align="center">🎨 Frontend</h4>
 <p align="center">
+  <strong>🎨 Frontend:</strong>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,nextjs,tailwind,bootstrap,wordpress" alt="Frontend"/>
+    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,bootstrap,wordpress" alt="Frontend"/>
   </a>
 </p>
 
-<h4 align="center">⚙️ Backend & Framework</h4>
 <p align="center">
+  <strong>⚙️ Backend & Framework:</strong>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,express" alt="Backend"/>
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,express,spring,graphql,prisma" alt="Backend"/>
   </a>
 </p>
 
-<h4 align="center">🗄️ Database</h4>
 <p align="center">
+  <strong>🗄️ Database:</strong>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Database"/>
   </a>
 </p>
 
-<h4 align="center">🛠️ DevOps & Tools</h4>
 <p align="center">
+  <strong>🛠️ DevOps & Tools:</strong>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,jenkins,firebase" alt="DevOps & Tools"/>
+    <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,gitlab,jenkins,firebase" alt="DevOps & Tools"/>
   </a>
 </p>
 
