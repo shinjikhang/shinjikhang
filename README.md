@@ -10,18 +10,13 @@
 ### Frontend Development
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vue,react,nextjs" alt="Frontend Frameworks" />
-<img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Web Technologies" />
+<img src="https://skillicons.dev/icons?i=js,ts" alt="Web Technologies" />
 <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,wordpress" alt="CSS Frameworks" />
 </div>
 
 ### Database & Caching
 <div align="center">
 <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" alt="Databases" />
-</div>
-
-### Other Tools
-<div align="center">
-<img src="https://skillicons.dev/icons?i=vscode,postman,figma" alt="Development Tools" />
 </div>
 
 </td>
