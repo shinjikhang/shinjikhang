@@ -1,42 +1,48 @@
 <h1 align="center">Hi, I'm Huynh Huu Khang! 👋</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shinjikhang.shinjikhang&left_color=royalblue&right_color=black"  />
 
-<h3>:hammer_and_wrench: Languages and Tools</h3>
+<h2>🛠️ Tech Stack</h2>
 
-<p>
-  <strong>💻 Languages:</strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,js,ts,python,ruby,kotlin" alt="Languages"/>
-  </a>
-</p>
+<table>
+<tr>
+<td valign="top" width="50%">
 
-<p>
-  <strong>🎨 Frontend:</strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,bootstrap,wordpress" alt="Frontend"/>
-  </a>
-</p>
+### Frontend Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=vue,react,nextjs" alt="Frontend Frameworks" />
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" alt="Web Technologies" />
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap" alt="CSS Frameworks" />
+</div>
 
-<p>
-  <strong>⚙️ Backend & Framework:</strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,express,spring,graphql,prisma" alt="Backend"/>
-  </a>
-</p>
+### Backend Development
+<div align="center">
+<img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=express,spring,graphql,prisma" alt="Backend Tools" />
+<img src="https://skillicons.dev/icons?i=python,ruby,kotlin" alt="Languages" />
+</div>
 
-<p>
-  <strong>🗄️ Database:</strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Database"/>
-  </a>
-</p>
+</td>
+<td valign="top" width="50%">
 
-<p>
-  <strong>🛠️ DevOps & Tools:</strong>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,gitlab,jenkins,firebase" alt="DevOps & Tools"/>
-  </a>
-</p>
+### Database & Caching
+<div align="center">
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb" alt="Databases" />
+</div>
+
+### DevOps & Tools
+<div align="center">
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git" alt="DevOps" />
+<img src="https://skillicons.dev/icons?i=github,gitlab,jenkins,firebase" alt="CI/CD & Tools" />
+</div>
+
+### Other
+<div align="center">
+<img src="https://skillicons.dev/icons?i=wordpress,vscode,postman" alt="Other Tools" />
+</div>
+
+</td>
+</tr>
+</table>
 
 
 ![GitHub Snake](https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/refs/heads/output/github-snake-dark.svg)
