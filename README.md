@@ -1,37 +1,37 @@
 <h1 align="center">Hi, I'm Huynh Huu Khang! 👋</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shinjikhang.shinjikhang&left_color=royalblue&right_color=black"  />
 
-<h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
+<h3>:hammer_and_wrench: Languages and Tools</h3>
 
-<p align="center">
+<p>
   <strong>💻 Languages:</strong>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,js,ts,python,ruby,kotlin" alt="Languages"/>
   </a>
 </p>
 
-<p align="center">
+<p>
   <strong>🎨 Frontend:</strong>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vue,react,nextjs,tailwind,bootstrap,wordpress" alt="Frontend"/>
   </a>
 </p>
 
-<p align="center">
+<p>
   <strong>⚙️ Backend & Framework:</strong>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,express,spring,graphql,prisma" alt="Backend"/>
   </a>
 </p>
 
-<p align="center">
+<p>
   <strong>🗄️ Database:</strong>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Database"/>
   </a>
 </p>
 
-<p align="center">
+<p>
   <strong>🛠️ DevOps & Tools:</strong>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,gitlab,jenkins,firebase" alt="DevOps & Tools"/>
