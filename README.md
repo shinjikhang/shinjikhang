@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Huynh Huu Khang! 👋</h1>
+<h1 align="center">Hi, I'm Shinji Khang! 👋</h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=shinjikhang.shinjikhang&left_color=royalblue&right_color=black"  />
 
 <h2>🛠️ Tech Stack</h2>
@@ -7,7 +7,7 @@
 <tr>
 <td valign="top" width="50%">
 
-### Frontend Development
+### Frontend
 <div align="center">
 <img src="https://skillicons.dev/icons?i=vue,react,nextjs" alt="Frontend Frameworks" />
 <img src="https://skillicons.dev/icons?i=js,ts" alt="Web Technologies" />
@@ -22,7 +22,7 @@
 </td>
 <td valign="top" width="50%">
 
-### Backend Development
+### Backend
 <div align="center">
 <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs" alt="Backend" />
 <img src="https://skillicons.dev/icons?i=express,spring,graphql,prisma" alt="Backend Tools" />
