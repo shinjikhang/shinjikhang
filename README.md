@@ -3,9 +3,38 @@
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
+<h4 align="center">💻 Languages</h4>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,nodejs,nestjs,vue,nextjs,python,ruby,kotlin,mysql,postgres,redis,docker,nginx,wordpress,tailwind,bootstrap,firebase,git,github,gitlab,jenkins" alt="Skills and tools"/>
+    <img src="https://skillicons.dev/icons?i=php,js,ts,python,ruby,kotlin" alt="Languages"/>
+  </a>
+</p>
+
+<h4 align="center">🎨 Frontend</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,nextjs,tailwind,bootstrap,wordpress" alt="Frontend"/>
+  </a>
+</p>
+
+<h4 align="center">⚙️ Backend & Framework</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,nodejs,nestjs,express" alt="Backend"/>
+  </a>
+</p>
+
+<h4 align="center">🗄️ Database</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,redis" alt="Database"/>
+  </a>
+</p>
+
+<h4 align="center">🛠️ DevOps & Tools</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,jenkins,firebase" alt="DevOps & Tools"/>
   </a>
 </p>
 
@@ -22,9 +51,6 @@
     </a>
     <a href="https://github.com/shinjikhang" target="_blank" style="text-decoration: none;">
         <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub" height="40">
-    </a>
-    <a href="mailto:huukhang1999@gmail.com" target="_blank" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/mail.svg" alt="Email" height="40">
     </a>
 </p>
 
