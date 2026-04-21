@@ -46,14 +46,6 @@
 
 
 <h3>🌐 Let's Connect and Grow Together!</h3>
-<p align="center">
-    <a href="https://www.linkedin.com/in/khang-shinji/" target="_blank" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" height="40">
-    </a>
-    <a href="https://github.com/shinjikhang" target="_blank" style="text-decoration: none;">
-        <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/github.svg" alt="GitHub" height="40">
-    </a>
-</p>
 
 <h3>✨ Fun Facts</h3>
 <ul>
