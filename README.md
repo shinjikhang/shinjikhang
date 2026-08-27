@@ -46,6 +46,7 @@
 
 
 <h3>🌐 Let's Connect and Grow Together!</h3>
+<p>📧 <b>Work email:</b> <a href="mailto:geizman1@gmail.com">geizman1@gmail.com</a></p>
 
 <h3>✨ Fun Facts</h3>
 <ul>
@@ -54,4 +55,3 @@
     <li>Always eager to learn and adapt to new challenges in software development.</li>
     <li>I enjoy contributing to open-source projects and sharing knowledge with the community.</li>
 </ul>
-
